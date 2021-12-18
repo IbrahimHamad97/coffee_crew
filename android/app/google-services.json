@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976224527290",
+    "project_id": "brho-brew-crew",
+    "storage_bucket": "brho-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976224527290:android:2f1baae49b569ce8397383",
+        "android_client_info": {
+          "package_name": "com.example.coffee_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976224527290-nkmtjhiec68pa8r9ec7rtaca2jv44t64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrM8czfgBJldsRFewBKwOH4qRhu5d8OV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976224527290-nkmtjhiec68pa8r9ec7rtaca2jv44t64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
